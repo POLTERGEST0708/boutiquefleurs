@@ -45,6 +45,11 @@ body{
 h1{
     text-transform: uppercase;
 }
+h2{
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-left: 10px;
+}
 
 
 .about{
@@ -61,4 +66,10 @@ h1{
     height: 300px;
     border-radius: 100px;
     padding-left:100px ;
+}
+
+.links a img{
+    height: 100px;
+    padding-left: 160px;
+    cursor: help;  
 }
