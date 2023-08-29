@@ -38,7 +38,15 @@ nav ul li a{
 
 body{
      background-color: greenyellow;
+     height: 1160px;
+     width: 1160px;
 }
+
+h1{
+    text-transform: uppercase;
+}
+
+
 .about{
     display: flex;
     flex-direction: column;
@@ -48,3 +56,9 @@ body{
     padding-top: 30px;
 }
 
+.flower img{
+    padding-top: 25px;
+    height: 300px;
+    border-radius: 100px;
+    padding-left:100px ;
+}
